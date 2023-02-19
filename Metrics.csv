@@ -1,0 +1,7 @@
+Method,Average Silhouette score,Calinski-Harabasz score,Davies-Bouldin score,Homogeneity score,Completeness score,V-measure,Rand index,Adjusted Rand index,Mutual Information score,Adjusted Mutual Information score
+PCA,0.3623,40722.5562,0.8098,0.3631,0.2389,0.2882,0.6979,0.0534,0.6634,0.2863
+t-SNE,0.3774,21413.2949,0.8104,0.3648,0.2374,0.2876,0.7010,0.0589,0.6664,0.2857
+Isomap,0.4188,35426.5443,0.7388,0.3670,0.2424,0.2919,0.6968,0.0521,0.6704,0.2900
+Laplacian Eigenmaps,0.5392,201440.5058,0.5219,0.3273,0.2138,0.2586,0.6963,0.0456,0.5979,0.2566
+Modified LLE,0.5542,104720.8026,0.5810,0.3359,0.2381,0.2787,0.6911,0.0588,0.6137,0.2766
+UMAP,0.5237,51463.8163,0.6349,0.3697,0.2425,0.2929,0.6997,0.0578,0.6754,0.2910
